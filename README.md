@@ -12,5 +12,6 @@
 2. Spotkanie z firmą  www.sagitum.pl
 
 <h2>Kierownicy</h2>
+1. Aplikacja Webowa i mobilan do przeglądania kosztów pracowniczych 
 
 
