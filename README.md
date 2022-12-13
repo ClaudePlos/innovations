@@ -6,4 +6,11 @@
 <h2>Kadry</h2>
 1. Dodanie Bota na sprawdzanie statusów SODU.
 
+
+<h2>Boot</h2>
+1. Power Automate Microsoft
+2. Spotkanie z firmą  www.sagitum.pl
+
 <h2>Kierownicy</h2>
+
+
