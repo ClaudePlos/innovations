@@ -7,11 +7,9 @@
 1. Dodanie Bota na sprawdzanie statusów SODU.
 
 
-<h2>Boot</h2>
-1. sdfsdf
-2. 
-3. Power Automate Microsoft
-4. Spotkanie z firmą  www.sagitum.pl
+<h2>Boot</h2> 
+1. Power Automate Microsoft <br>
+2. Spotkanie z firmą  www.sagitum.pl
 
 <h2>Kierownicy</h2>
 
