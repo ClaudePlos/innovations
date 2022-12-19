@@ -1,8 +1,9 @@
 # Innowacje
 
 <h2>Dział księgowości</h2>
-1. Nowy raport do nap-kg-app: wartość środków trwałych na dzień 
-2. BPC > Noty dodatkowe i dodatkowe fukcjie. Raczej pół roku 
+1. Nowy raport do nap-kg-app: wartość środków trwałych na dzień <br>
+2. BPC > Noty dodatkowe i dodatkowe fukcjie. Raczej pół roku <br>
+3. Zakładka do odświeżania BPC w app kg.rekeep.pl (TODO)
 
 <h2>Kadry</h2>
 1. Dodanie Bota na sprawdzanie statusów SODU. <br>
