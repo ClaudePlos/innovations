@@ -6,9 +6,8 @@
 
 <h2>Kadry</h2>
 1. Dodanie Bota na sprawdzanie statusów SODU. <br>
-2. Wyciągi bankowe
+2. Wyciągi bankowe <br>
 3. Wysyłanie SOD
-4. 
 
 
 <h2>Boot</h2> 
