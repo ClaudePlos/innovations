@@ -18,5 +18,6 @@
 
 <h2>Kierownicy</h2>
 1. Aplikacja Webowa i mobilan do przeglądania kosztów pracowniczych 
+2. Wykaz Asygnat dla Kierowników Cateringowych z Egerii, porównanie z RW w MAPI
 
 
