@@ -21,4 +21,7 @@
 1. Aplikacja Webowa i mobilan do przeglądania kosztów pracowniczych 
 2. Wykaz Asygnat dla Kierowników Cateringowych z Egerii, porównanie z RW w MAPI
 
+Zrobione:
+1. Zmiana wzorców kont dla 750 (Przychody finansowe) i 751 (Koszty finansowe)
+
 
